@@ -1,11 +1,23 @@
-sentence-transformers==3.4.1
+# Core RAG stack
 chromadb>=0.6.0
 groq==0.15.0
 python-dotenv==1.0.1
 
-# Query interface — add whichever you use for Milestone 5:
-# gradio>=6.9.0
-# streamlit>=1.40.0
+# Query interface — Milestone 5
+gradio>=4.0.0
 
-# Document ingestion — add if your documents/ folder contains .pdf files:
-# pdfplumber==0.11.4
+# Compatibility pin: gradio 4.x (the newest line that runs on Python 3.9) needs
+# the pre-1.0 huggingface_hub API. Without this, a fresh install pulls
+# huggingface_hub 1.x and gradio fails to import (cannot import name 'HfFolder').
+huggingface_hub<1.0
+
+# PDF ingestion (documents/ contains usf_cs_plan.pdf)
+pdfplumber==0.11.4
+
+# Embedding model (all-MiniLM-L6-v2).
+# OPTIONAL: sentence-transformers pulls in PyTorch (~1.5 GB). The pipeline runs
+# fine without it — it automatically falls back to ChromaDB's built-in
+# DefaultEmbeddingFunction, which serves the SAME all-MiniLM-L6-v2 weights via
+# ONNX with no PyTorch dependency. Uncomment the line below only if you
+# specifically want the sentence-transformers backend.
+# sentence-transformers==3.4.1

@@ -1,0 +1,66 @@
+Title: How hard are these classes? Will working be too much?
+URL: https://www.reddit.com/r/USF/comments/7bu5tk/how_hard_are_these_classes_will_working_be_too/
+Source: reddit
+---
+
+POST:
+How hard are these classes? Will working be too much?
+
+Courses mentioned:
+- CGS 3303 (3 hrs) IT Concepts
+- CIS 3213 (3 hrs) Foundations of Cyber Security
+- COP 2513 (3 hrs) Obj Oriented Program for IT
+- MAD 2104 (3 hrs) Discrete Math
+- MAC 1147 (4 hrs) PreCalc Alg/Trig
+
+COMMENT (k20a):
+Are you taking them all in one semester? I took 4 upper-level, major courses in one semester once and vowed never again (with work). Is it possible? Yeah. Will it suck? Definitely. But ultimately, it's up to your working habits and ability with math.
+
+COMMENT (NotStevenPink):
+I'm currently in 3 4000 level ISM classes and 2 3000 level core classes and I have a 12hr per week internship. I feel completely slammed. I tutored a friend through IT concepts and Cyber Security and they were both reasonably easy if you have a decent grasp of networking and computer knowledge. My friend I was tutoring said COP2513 was hard. PreCalc/Trig together will be a lot. I would say maybe drop a class or pick an easier class or two if you want to work.
+
+COMMENT (Bcicero):
+Just to give an idea if this can relate at all my major is in information studies: information science & technology.
+
+So the only class I have directly in common here is mac1147. Now the thing about this class is, if your good at math, someone who just naturally grasps the concept it will be quite easy like it was for my friend. Now if you're like me and that's not the case, where it's taking all my energy just to maintain an 84 in the class that's a different story (I'm going to be a senior in the spring and can honestly say mac1147 is the hardest class I've ever taken, I'd even choose to take multiple programming classes at once over taking it If given the choice). And I would HIGHLY recommend taking it in a different semester if math is not your strongest area.
+
+Also I haven't taken that IT concepts class, but I have taken LIS3353 "IT Concepts/Info Professionals". I'd assume they share some common ground, but I could also be completely wrong, and my grade with minimal effort so far has been 98.33, and that's with me waiting till the day assignments are due (No I would not recommend doing this). Now as far as COP 2513 not to sure, closest thing I would be able to compare with would be COP2931 and COP 2930, these were C++ and Java. I also went in to both with no knowledge of either and C++ with 0 knowledge on programming. They definitely weren't an easy A, but not the hardest classes either. My best advice though would be to speak to an advisor on it, they can help plan it out through the semesters for you. Good luck with what you decide.
+
+COMMENT (Jebadius):
+I've taken all of these classes and I have to say that the hardest out of those for me was the Object Oriented Programming. That being said, it's really up to you since someone in this post mentioned how they had trouble with Pre-Calc and when I took it, I thought it was a joke and a half. Regardless, Intro to Cybersecurity is so fun and you have lots of labs that take you into some of the programs hackers use and whatnot.
+
+COMMENT (Psychonaut117):
+If you are working, this will probably be sort of overwhelming. I'd take off one of those courses to be safe. Who is your professor for programming?
+
+COMMENT (deleted user):
+You should be fine... 2 easy math courses, a basic programming course, and what sounds like 2 intro courses.
+
+If you can't handle this course load right now, how are things going to go when you're further along in your major and all your courses are 4000-level? If you don't have to work, then don't work. If you do have to, take these courses and deal with it. You'll learn how to manage your time effectively, and this will help you down the road when its gets harder.
+
+COMMENT (deleted user):
+Concepts is fairly easy if you follow through the class.
+
+I'm going to take Foundations of Cyber Security next semester but I have friends taking it and apparently it's pretty hard.
+
+I'm taking object oriented right now and it's pretty damn hard. Massive curves on the exams and the fact that we have a group of guys working on everything is keeping me afloat.
+
+Discrete Math is pretty damn easy, mostly because all of the quizzes were outdated and could be found online in my class.
+
+PreCalc is EXTREMELY easy. I did it freshman year while partying it up and sleep deprived so I pulled a C+ but that could've easily been an A if I put even a tiny amount of time into it.
+
+COMMENT (iRunLikeTheWind):
+I had a decent experience taking precalc/trig online, since the tests(which were on campus) were multiple choice...
+
+I've realized that rigor in classes is up to the professor teaching it, not some sort of default imposed by the material or school.
+
+COMMENT (areyouahuman):
+Discrete math and college algebra are a joke, no clue on the other ones
+
+COMMENT (IanSan5653, reply):
+It's not college algebra though, it's combined precalculus and algebra. While that's not difficult for someone who's done calc, it's a lot of new material in a short time.
+
+COMMENT (areyouahuman, reply):
+read it worng, yeah precalc is by far the hardest math class. way harder than calc I, II, III
+
+COMMENT (WRXtide):
+I wouldn't take any two of them together, much less all at once.

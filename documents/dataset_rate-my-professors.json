@@ -1,0 +1,1107 @@
+[{
+  "professorName": "Rangachar Kasturi",
+  "professorId": "779636",
+  "schoolName": "University of South Florida",
+  "department": "Computer Science",
+  "overallQualityRating": "4.2",
+  "numberOfRatings": "10 ratings",
+  "wouldTakeAgainPercentage": "100%",
+  "levelOfDifficulty": "3.5",
+  "type": "professor",
+  "schoolId": "1262",
+  "description": "Professor in the Computer Science department at University of South Florida",
+  "tags": null,
+  "ratingDistribution": [
+    {
+      "rating": "5",
+      "label": "Awesome",
+      "count": "7"
+    },
+    {
+      "rating": "4",
+      "label": "Great",
+      "count": "2"
+    },
+    {
+      "rating": "3",
+      "label": "Good",
+      "count": "0"
+    },
+    {
+      "rating": "2",
+      "label": "OK",
+      "count": "0"
+    },
+    {
+      "rating": "1",
+      "label": "Awful",
+      "count": "1"
+    }
+  ],
+  "similarProfessors": [
+    {
+      "professorId": "2663114",
+      "professorName": "Shaun Canavan",
+      "professorUrl": "https://www.ratemyprofessors.com/professor/2663114",
+      "rating": "4.90"
+    },
+    {
+      "professorId": "2400694",
+      "professorName": "Sriram Chellappan",
+      "professorUrl": "https://www.ratemyprofessors.com/professor/2400694",
+      "rating": "4.80"
+    },
+    {
+      "professorId": "974482",
+      "professorName": "Jarred Ligatti",
+      "professorUrl": "https://www.ratemyprofessors.com/professor/974482",
+      "rating": "4.70"
+    }
+  ],
+  "reviews": [
+    {
+      "course": "CDA3201",
+      "date": "Dec 7th, 2017",
+      "qualityRating": "5.0",
+      "difficultyRating": "3.0",
+      "forCredit": "Yes",
+      "attendance": "Not Mandatory",
+      "wouldTakeAgain": "Yes",
+      "grade": "A",
+      "textbook": "Yes",
+      "comment": "Doctor Kasturi is one of the best professors I have ever had. His lectures are very clear, and I always easily understood the material. He is one of the few professors I've had at USF that still writes one the white board, which was refreshing. Great prof, and would definitely take again!",
+      "tags": [
+        "Amazing lectures",
+        "Caring"
+      ],
+      "helpfulCount": "1",
+      "notHelpfulCount": "0"
+    },
+    {
+      "course": "CDA3201",
+      "date": "Nov 10th, 2016",
+      "qualityRating": "5.0",
+      "difficultyRating": "3.0",
+      "forCredit": "Yes",
+      "attendance": "Not Mandatory",
+      "wouldTakeAgain": "Yes",
+      "grade": null,
+      "textbook": "Yes",
+      "comment": "i am really enjoying prof kasturi's class. i dont care for the subject all that much but prof kasturi makes it interesting and easy to understand. i would highly recommend taking him for this class over the alternatives... cough... jeanty... cough. i even waited a whole semester for this guy, bc he is worth it. def would take again, no doubt.",
+      "tags": [
+        "Respected",
+        "ACCESSIBLE OUTSIDE CLASS",
+        "Clear grading criteria"
+      ],
+      "helpfulCount": "1",
+      "notHelpfulCount": "3"
+    },
+    {
+      "course": "CDA3201",
+      "date": "Apr 12th, 2016",
+      "qualityRating": "3.5",
+      "difficultyRating": "3.0",
+      "forCredit": "Yes",
+      "attendance": "Not Mandatory",
+      "wouldTakeAgain": null,
+      "grade": "B",
+      "textbook": "Yes",
+      "comment": "I took Dr. K for comp logic design, so its a given that the material is, more or less, really hard.  He is the only teacher I would want to take the course with though.  His lectures are great.  If you go to every lecture, take notes every time, and actually study for the exams, you will pass with a B or A. If you don't. . well start doing that",
+      "tags": null,
+      "helpfulCount": "1",
+      "notHelpfulCount": "2"
+    },
+    {
+      "course": "CDA3201",
+      "date": "Nov 9th, 2015",
+      "qualityRating": "4.5",
+      "difficultyRating": "4.0",
+      "forCredit": "Yes",
+      "attendance": "Not Mandatory",
+      "wouldTakeAgain": null,
+      "grade": "A-",
+      "textbook": "Yes",
+      "comment": "one of the best professors in comp sci. he breaks things down to where they make sense even though the material is quite complex. def take him at all costs.",
+      "tags": null,
+      "helpfulCount": "1",
+      "notHelpfulCount": "2"
+    },
+    {
+      "course": "CDA3201",
+      "date": "Dec 17th, 2013",
+      "qualityRating": "5.0",
+      "difficultyRating": "3.0",
+      "forCredit": null,
+      "attendance": "Mandatory",
+      "wouldTakeAgain": null,
+      "grade": "C",
+      "textbook": "Yes",
+      "comment": "Kasturi is very knowledgeable and a good lecturer, also very friendly. The material for the course is relatively difficult, but he explains it well. His TAs are also very helpful. If you have trouble with anything go to Raj, he's great.",
+      "tags": null,
+      "helpfulCount": "1",
+      "notHelpfulCount": "2"
+    }
+  ],
+  "professorUrl": "https://www.ratemyprofessors.com/professor/779636",
+  "schoolUrl": "https://www.ratemyprofessors.com/school/1262",
+  "scrapedTimestamp": "2026-06-07T22:48:07.232Z"
+},
+{
+  "professorName": "Sanjukta Bhanja",
+  "professorId": "783136",
+  "schoolName": "University of South Florida",
+  "department": "Electrical Engineering",
+  "overallQualityRating": "3.0",
+  "numberOfRatings": "8 ratings",
+  "wouldTakeAgainPercentage": "50%",
+  "levelOfDifficulty": "2.4",
+  "type": "professor",
+  "schoolId": "1262",
+  "description": "Professor in the Electrical Engineering department at University of South Florida",
+  "tags": null,
+  "ratingDistribution": [
+    {
+      "rating": "5",
+      "label": "Awesome",
+      "count": "2"
+    },
+    {
+      "rating": "4",
+      "label": "Great",
+      "count": "2"
+    },
+    {
+      "rating": "3",
+      "label": "Good",
+      "count": "1"
+    },
+    {
+      "rating": "2",
+      "label": "OK",
+      "count": "2"
+    },
+    {
+      "rating": "1",
+      "label": "Awful",
+      "count": "1"
+    }
+  ],
+  "similarProfessors": [
+    {
+      "professorId": "2506087",
+      "professorName": "Yasin Yilmaz",
+      "professorUrl": "https://www.ratemyprofessors.com/professor/2506087",
+      "rating": "4.50"
+    },
+    {
+      "professorId": "305817",
+      "professorName": "James Leffew",
+      "professorUrl": "https://www.ratemyprofessors.com/professor/305817",
+      "rating": "4.00"
+    },
+    {
+      "professorId": "1769039",
+      "professorName": "Chung Jeong",
+      "professorUrl": "https://www.ratemyprofessors.com/professor/1769039",
+      "rating": "3.40"
+    }
+  ],
+  "reviews": [
+    {
+      "course": "EEL3705L",
+      "date": "Dec 17th, 2021",
+      "qualityRating": "3.0",
+      "difficultyRating": "1.0",
+      "forCredit": "Yes",
+      "attendance": "Not Mandatory",
+      "wouldTakeAgain": "Yes",
+      "grade": "A+",
+      "textbook": "No",
+      "comment": "She showed up the first day of class but the class is taught by the TAs. Is a really easy class, you will probably struggle with the project if you have never taking any programming courses before but its still an easy A.",
+      "tags": null,
+      "helpfulCount": "0",
+      "notHelpfulCount": "0"
+    },
+    {
+      "course": "EEL3705L",
+      "date": "May 18th, 2020",
+      "qualityRating": "1.0",
+      "difficultyRating": "2.0",
+      "forCredit": "Yes",
+      "attendance": "Mandatory",
+      "wouldTakeAgain": "No",
+      "grade": "A+",
+      "textbook": "No",
+      "comment": "I never met this lady in person, we only had a TA all day. The TA was ok, but we could have used a more experienced prof in the lab. This class has easy labs at first, but then this verilog coding sh!t comes & we were lost, not even the TA knew. At the end theres a group project with little instruction, and the prof finally makes a rude appearance",
+      "tags": [
+        "Skip class? You won't pass.",
+        "Group projects",
+        "Tough grader"
+      ],
+      "helpfulCount": "0",
+      "notHelpfulCount": "0"
+    },
+    {
+      "course": "EEL4705",
+      "date": "Jan 5th, 2015",
+      "qualityRating": "1.5",
+      "difficultyRating": "2.0",
+      "forCredit": "Yes",
+      "attendance": null,
+      "wouldTakeAgain": null,
+      "grade": null,
+      "textbook": "No",
+      "comment": "Easy grade but you learn nothing in her class which in turn makes it difficult in following classes. Hard to understand",
+      "tags": null,
+      "helpfulCount": "1",
+      "notHelpfulCount": "1"
+    },
+    {
+      "course": "LOGICEEL",
+      "date": "Jan 4th, 2008",
+      "qualityRating": "4.0",
+      "difficultyRating": "4.0",
+      "forCredit": null,
+      "attendance": null,
+      "wouldTakeAgain": null,
+      "grade": null,
+      "textbook": "Yes",
+      "comment": "Explains well, curves",
+      "tags": null,
+      "helpfulCount": "1",
+      "notHelpfulCount": "0"
+    },
+    {
+      "course": "LOGIC4705",
+      "date": "Dec 27th, 2007",
+      "qualityRating": "3.5",
+      "difficultyRating": "4.0",
+      "forCredit": null,
+      "attendance": null,
+      "wouldTakeAgain": null,
+      "grade": null,
+      "textbook": "Yes",
+      "comment": "great",
+      "tags": null,
+      "helpfulCount": "2",
+      "notHelpfulCount": "0"
+    }
+  ],
+  "professorUrl": "https://www.ratemyprofessors.com/professor/783136",
+  "schoolUrl": "https://www.ratemyprofessors.com/school/1262",
+  "scrapedTimestamp": "2026-06-07T22:48:07.338Z"
+},
+{
+  "professorName": "Sriram Chellappan",
+  "professorId": "2400694",
+  "schoolName": "University of South Florida",
+  "department": "Computer Science",
+  "overallQualityRating": "4.8",
+  "numberOfRatings": "19 ratings",
+  "wouldTakeAgainPercentage": "95%",
+  "levelOfDifficulty": "2.4",
+  "type": "professor",
+  "schoolId": "1262",
+  "description": "Professor in the Computer Science department at University of South Florida",
+  "tags": null,
+  "ratingDistribution": [
+    {
+      "rating": "5",
+      "label": "Awesome",
+      "count": "19"
+    },
+    {
+      "rating": "4",
+      "label": "Great",
+      "count": "0"
+    },
+    {
+      "rating": "3",
+      "label": "Good",
+      "count": "0"
+    },
+    {
+      "rating": "2",
+      "label": "OK",
+      "count": "0"
+    },
+    {
+      "rating": "1",
+      "label": "Awful",
+      "count": "1"
+    }
+  ],
+  "similarProfessors": [
+    {
+      "professorId": "2663114",
+      "professorName": "Shaun Canavan",
+      "professorUrl": "https://www.ratemyprofessors.com/professor/2663114",
+      "rating": "4.90"
+    },
+    {
+      "professorId": "974482",
+      "professorName": "Jarred Ligatti",
+      "professorUrl": "https://www.ratemyprofessors.com/professor/974482",
+      "rating": "4.70"
+    },
+    {
+      "professorId": "2304428",
+      "professorName": "Mehran Kermani",
+      "professorUrl": "https://www.ratemyprofessors.com/professor/2304428",
+      "rating": "4.70"
+    }
+  ],
+  "reviews": [
+    {
+      "course": "COT4210",
+      "date": "May 23rd, 2026",
+      "qualityRating": "5.0",
+      "difficultyRating": "1.0",
+      "forCredit": "Yes",
+      "attendance": "Not Mandatory",
+      "wouldTakeAgain": "Yes",
+      "grade": "A",
+      "textbook": "N/A",
+      "comment": "He is a great prof! pretty chill ! helps everyone answers everyones questions! definitely take his class, his exams are not that hard as well! just  make sure you are attending his lectures, cuz it makes the exams easier.",
+      "tags": [
+        "Amazing lectures",
+        "Clear grading criteria",
+        "Caring"
+      ],
+      "helpfulCount": "0",
+      "notHelpfulCount": "0"
+    },
+    {
+      "course": "COT4210",
+      "date": "Apr 19th, 2025",
+      "qualityRating": "5.0",
+      "difficultyRating": "1.0",
+      "forCredit": "Yes",
+      "attendance": "Not Mandatory",
+      "wouldTakeAgain": "Yes",
+      "grade": "A+",
+      "textbook": "N/A",
+      "comment": "Dr. Chellappan is the best professor in the CSE department. He explains difficult content in a manner that could be understood easily by students. Although attendance is not required, the exams are based on his lectures so basically required. His lectures are fun and very concise, most of the time ending class early. Exams and HW were very easy.",
+      "tags": [
+        "Amazing lectures",
+        "Hilarious",
+        "Caring"
+      ],
+      "helpfulCount": "0",
+      "notHelpfulCount": "0"
+    },
+    {
+      "course": "COT4210",
+      "date": "Jan 10th, 2025",
+      "qualityRating": "5.0",
+      "difficultyRating": "2.0",
+      "forCredit": "Yes",
+      "attendance": "Not Mandatory",
+      "wouldTakeAgain": "Yes",
+      "grade": "A",
+      "textbook": "Yes",
+      "comment": "Amazing professor. The classes are fun and very interesting. He never skips over any student's questions and answers them all patiently in class!",
+      "tags": [
+        "Amazing lectures",
+        "Caring"
+      ],
+      "helpfulCount": "0",
+      "notHelpfulCount": "0"
+    },
+    {
+      "course": "COT4210",
+      "date": "Jan 8th, 2025",
+      "qualityRating": "5.0",
+      "difficultyRating": "2.0",
+      "forCredit": "Yes",
+      "attendance": "Not Mandatory",
+      "wouldTakeAgain": "Yes",
+      "grade": "A+",
+      "textbook": "Yes",
+      "comment": "Professor Chellappan tries his best to make the class as easy as possible. He's very responsive to student questions and loves to joke around in class. The assignments and exams build upon class discussions and aren't difficult. Can't recommend him enough!",
+      "tags": [
+        "Amazing lectures",
+        "Hilarious",
+        "Caring"
+      ],
+      "helpfulCount": "1",
+      "notHelpfulCount": "0"
+    },
+    {
+      "course": "COT4210",
+      "date": "Dec 24th, 2024",
+      "qualityRating": "5.0",
+      "difficultyRating": "1.0",
+      "forCredit": "Yes",
+      "attendance": "Not Mandatory",
+      "wouldTakeAgain": "Yes",
+      "grade": "A",
+      "textbook": "Yes",
+      "comment": "This was by far one of my favorite USF professors I've had so far. Unlike many other professors, he goes through topics by writing them out during class rather than just clicking through a bunch of powerpoint slides. He also makes the class engaging and exciting. Overall, I would recommend this professor over any other that teaches Automata Theory.",
+      "tags": [
+        "Amazing lectures",
+        "Inspirational",
+        "Respected"
+      ],
+      "helpfulCount": "0",
+      "notHelpfulCount": "0"
+    }
+  ],
+  "professorUrl": "https://www.ratemyprofessors.com/professor/2400694",
+  "schoolUrl": "https://www.ratemyprofessors.com/school/1262",
+  "scrapedTimestamp": "2026-06-07T22:48:07.306Z"
+},
+{
+  "professorName": "Oguzhan Topsakal",
+  "professorId": "3055054",
+  "schoolName": "University of South Florida",
+  "department": "Computer Science",
+  "overallQualityRating": "3.8",
+  "numberOfRatings": "11 ratings",
+  "wouldTakeAgainPercentage": "64%",
+  "levelOfDifficulty": "3.6",
+  "type": "professor",
+  "schoolId": "1262",
+  "description": "Professor in the Computer Science department at University of South Florida",
+  "tags": null,
+  "ratingDistribution": [
+    {
+      "rating": "5",
+      "label": "Awesome",
+      "count": "5"
+    },
+    {
+      "rating": "4",
+      "label": "Great",
+      "count": "3"
+    },
+    {
+      "rating": "3",
+      "label": "Good",
+      "count": "0"
+    },
+    {
+      "rating": "2",
+      "label": "OK",
+      "count": "2"
+    },
+    {
+      "rating": "1",
+      "label": "Awful",
+      "count": "1"
+    }
+  ],
+  "similarProfessors": [
+    {
+      "professorId": "2663114",
+      "professorName": "Shaun Canavan",
+      "professorUrl": "https://www.ratemyprofessors.com/professor/2663114",
+      "rating": "4.90"
+    },
+    {
+      "professorId": "2400694",
+      "professorName": "Sriram Chellappan",
+      "professorUrl": "https://www.ratemyprofessors.com/professor/2400694",
+      "rating": "4.80"
+    },
+    {
+      "professorId": "974482",
+      "professorName": "Jarred Ligatti",
+      "professorUrl": "https://www.ratemyprofessors.com/professor/974482",
+      "rating": "4.70"
+    }
+  ],
+  "reviews": [
+    {
+      "course": "COT4400",
+      "date": "Jan 16th, 2026",
+      "qualityRating": "4.0",
+      "difficultyRating": "5.0",
+      "forCredit": "Yes",
+      "attendance": "Mandatory",
+      "wouldTakeAgain": null,
+      "grade": "B+",
+      "textbook": "N/A",
+      "comment": "He is passionate about his class but lectures are not as good as learning it using online resources. There are 3 exams, with most of the class failing the first 2 before a 25+ pt curve was added on. HWs and study guides are reflective of the exams. Before the class, make sure to have a great understanding of general DS algorithms and writing them.",
+      "tags": null,
+      "helpfulCount": "0",
+      "notHelpfulCount": "0"
+    },
+    {
+      "course": "COT4400",
+      "date": "Nov 19th, 2025",
+      "qualityRating": "5.0",
+      "difficultyRating": "3.0",
+      "forCredit": "Yes",
+      "attendance": "Mandatory",
+      "wouldTakeAgain": "Yes",
+      "grade": "A",
+      "textbook": "Yes",
+      "comment": "Dr. Topsakal is my favorite professor at USF. He is caring, intelligent, and he genuinely loves teaching. His lectures are interesting and exams/homework is related to what he explained in the presentations. I learned a lot from his classes and his support greatly increased my interest in the subjects (Database Design and Analysis of Algorithms).",
+      "tags": [
+        "Clear grading criteria",
+        "Caring",
+        "Accessible outside class"
+      ],
+      "helpfulCount": "0",
+      "notHelpfulCount": "0"
+    },
+    {
+      "course": "COT4400",
+      "date": "Aug 4th, 2025",
+      "qualityRating": "5.0",
+      "difficultyRating": "3.0",
+      "forCredit": "Yes",
+      "attendance": "Mandatory",
+      "wouldTakeAgain": "Yes",
+      "grade": "B+",
+      "textbook": "Yes",
+      "comment": "Dr. Topsaka is a genuinely fantastic professor! You can tell he has a passion for teaching and cares about every student. He explains concepts clearly and makes sure everyone understands the material. He's always available to answer questions and wants his students to succeed. Highly recommend taking his course!",
+      "tags": null,
+      "helpfulCount": "0",
+      "notHelpfulCount": "0"
+    },
+    {
+      "course": "COT4400",
+      "date": "May 6th, 2025",
+      "qualityRating": "4.0",
+      "difficultyRating": "4.0",
+      "forCredit": "Yes",
+      "attendance": "Mandatory",
+      "wouldTakeAgain": "Yes",
+      "grade": "B",
+      "textbook": "N/A",
+      "comment": "Professor Topaskal is good at what he teaches. His in class slides aren't as important as the sample paper he gives before every test. His midterms are super lengthy and are usually based on 3 very large questions divided into sub concepts. His office hours were helpful too and he is understanding.",
+      "tags": [
+        "Participation matters",
+        "Lots of homework",
+        "Test heavy"
+      ],
+      "helpfulCount": "0",
+      "notHelpfulCount": "0"
+    },
+    {
+      "course": "COT4400",
+      "date": "May 5th, 2025",
+      "qualityRating": "4.0",
+      "difficultyRating": "3.0",
+      "forCredit": "Yes",
+      "attendance": "Not Mandatory",
+      "wouldTakeAgain": "Yes",
+      "grade": "Not sure yet",
+      "textbook": "N/A",
+      "comment": "Very nice professor. You can actually go to his office hours and ask questions without feeling judged. Class is not super difficult for the most part -- second midterm was a massive time crunch, but he made up for it by adding a minor curve and making the final relatively easy",
+      "tags": [
+        "Gives good feedback",
+        "Test heavy",
+        "Accessible outside class"
+      ],
+      "helpfulCount": "0",
+      "notHelpfulCount": "0"
+    }
+  ],
+  "professorUrl": "https://www.ratemyprofessors.com/professor/3055054",
+  "schoolUrl": "https://www.ratemyprofessors.com/school/1262",
+  "scrapedTimestamp": "2026-06-07T22:48:07.269Z"
+},
+{
+  "professorName": "Dmitry Goldgof",
+  "professorId": "592712",
+  "schoolName": "University of South Florida",
+  "department": "Computer Science",
+  "overallQualityRating": "4.0",
+  "numberOfRatings": "13 ratings",
+  "wouldTakeAgainPercentage": "100%",
+  "levelOfDifficulty": "3.4",
+  "type": "professor",
+  "schoolId": "1262",
+  "description": "Professor in the Computer Science department at University of South Florida",
+  "tags": null,
+  "ratingDistribution": [
+    {
+      "rating": "5",
+      "label": "Awesome",
+      "count": "8"
+    },
+    {
+      "rating": "4",
+      "label": "Great",
+      "count": "4"
+    },
+    {
+      "rating": "3",
+      "label": "Good",
+      "count": "1"
+    },
+    {
+      "rating": "2",
+      "label": "OK",
+      "count": "1"
+    },
+    {
+      "rating": "1",
+      "label": "Awful",
+      "count": "0"
+    }
+  ],
+  "similarProfessors": [
+    {
+      "professorId": "2663114",
+      "professorName": "Shaun Canavan",
+      "professorUrl": "https://www.ratemyprofessors.com/professor/2663114",
+      "rating": "4.90"
+    },
+    {
+      "professorId": "2400694",
+      "professorName": "Sriram Chellappan",
+      "professorUrl": "https://www.ratemyprofessors.com/professor/2400694",
+      "rating": "4.80"
+    },
+    {
+      "professorId": "974482",
+      "professorName": "Jarred Ligatti",
+      "professorUrl": "https://www.ratemyprofessors.com/professor/974482",
+      "rating": "4.70"
+    }
+  ],
+  "reviews": [
+    {
+      "course": "CAP4401",
+      "date": "Apr 23rd, 2026",
+      "qualityRating": "5.0",
+      "difficultyRating": "5.0",
+      "forCredit": "Yes",
+      "attendance": "Not Mandatory",
+      "wouldTakeAgain": "Yes",
+      "grade": "A",
+      "textbook": "N/A",
+      "comment": "Amazing professor. Very kind, and easy to learn from. I took Image Processing with him, and it was probably the most interesting class I've had at USF.",
+      "tags": [
+        "Inspirational",
+        "Caring",
+        "Respected"
+      ],
+      "helpfulCount": "0",
+      "notHelpfulCount": "0"
+    },
+    {
+      "course": "CAP4401",
+      "date": "Mar 28th, 2021",
+      "qualityRating": "5.0",
+      "difficultyRating": "4.0",
+      "forCredit": "Yes",
+      "attendance": "Not Mandatory",
+      "wouldTakeAgain": "Yes",
+      "grade": null,
+      "textbook": "No",
+      "comment": "I would definitely said that he is one of the most caring professors at USF. I was struggling with coursework and emailed him for a project extension and he gave one to the whole class. His lectures aren't the most interesting but they get the job done. Projects are time consuming but interesting.",
+      "tags": [
+        "Accessible outside class",
+        "Clear grading criteria",
+        "Caring"
+      ],
+      "helpfulCount": "0",
+      "notHelpfulCount": "0"
+    },
+    {
+      "course": "CAP4401",
+      "date": "May 2nd, 2018",
+      "qualityRating": "5.0",
+      "difficultyRating": "3.0",
+      "forCredit": "Yes",
+      "attendance": "Mandatory",
+      "wouldTakeAgain": "Yes",
+      "grade": null,
+      "textbook": "No",
+      "comment": "Image Processing had 4 programming projects,lab works and 2 quizzes(exams). Offered 4 extra credit points. Second and third projects were definitely challenging. Second exam was rather hard as well. However, other two(first and last)projects and first exam were rather easy. Mr. Goldgof was rather caring and respectful, passed people with 65 total.",
+      "tags": [
+        "Skip class? You won't pass.",
+        "Caring",
+        "EXTRA CREDIT"
+      ],
+      "helpfulCount": "0",
+      "notHelpfulCount": "0"
+    },
+    {
+      "course": "CAP4401",
+      "date": "May 1st, 2018",
+      "qualityRating": "4.0",
+      "difficultyRating": "4.0",
+      "forCredit": "Yes",
+      "attendance": "Mandatory",
+      "wouldTakeAgain": "Yes",
+      "grade": null,
+      "textbook": "No",
+      "comment": "The image processing class was difficult, and the homework assignments take a lot of time, so you want to get started on them early. The quizzes are pretty similar to the practice questions he provides, so if you study those you should be fine. He's also very helpful with making sure you get your grade up if you start off bad, to make sure you pass",
+      "tags": [
+        "LOTS OF HOMEWORK",
+        "Clear grading criteria",
+        "GRADED BY FEW THINGS"
+      ],
+      "helpfulCount": "0",
+      "notHelpfulCount": "0"
+    },
+    {
+      "course": "CAP4401",
+      "date": "May 23rd, 2017",
+      "qualityRating": "5.0",
+      "difficultyRating": "3.0",
+      "forCredit": "Yes",
+      "attendance": "Not Mandatory",
+      "wouldTakeAgain": "Yes",
+      "grade": "A",
+      "textbook": "No",
+      "comment": "the image processing class was pretty good. the only thing that sucks is the reports for the projects but its good IEEE paper writing practice. Just knock it out on the projects and get all the extra credit you can bc the \"quizzes\" (exams) are a little on the rough side since they are only 4 questions. def would take a gain and recommend this class",
+      "tags": [
+        "ACCESSIBLE OUTSIDE CLASS",
+        "Clear grading criteria",
+        "GROUP PROJECTS"
+      ],
+      "helpfulCount": "2",
+      "notHelpfulCount": "0"
+    }
+  ],
+  "professorUrl": "https://www.ratemyprofessors.com/professor/592712",
+  "schoolUrl": "https://www.ratemyprofessors.com/school/1262",
+  "scrapedTimestamp": "2026-06-07T22:48:07.366Z"
+},
+{
+  "professorName": "R. smith",
+  "professorId": "3043764",
+  "schoolName": "University of South Florida",
+  "department": "Economics",
+  "overallQualityRating": "0",
+  "numberOfRatings": null,
+  "wouldTakeAgainPercentage": null,
+  "levelOfDifficulty": null,
+  "type": "professor",
+  "schoolId": "1262",
+  "description": "Professor in the Economics department at University of South Florida",
+  "tags": null,
+  "ratingDistribution": null,
+  "similarProfessors": [
+    {
+      "professorId": "2955837",
+      "professorName": "Aghairza Mammadov",
+      "professorUrl": "https://www.ratemyprofessors.com/professor/2955837",
+      "rating": "5.00"
+    },
+    {
+      "professorId": "3007005",
+      "professorName": "Benedetta Bastianelli",
+      "professorUrl": "https://www.ratemyprofessors.com/professor/3007005",
+      "rating": "5.00"
+    },
+    {
+      "professorId": "2412827",
+      "professorName": "Mikael Sandberg",
+      "professorUrl": "https://www.ratemyprofessors.com/professor/2412827",
+      "rating": "4.70"
+    }
+  ],
+  "professorUrl": "https://www.ratemyprofessors.com/professor/3043764",
+  "schoolUrl": "https://www.ratemyprofessors.com/school/1262",
+  "scrapedTimestamp": "2026-06-07T22:48:07.618Z"
+},
+{
+  "professorName": "R. Watson",
+  "professorId": "1010532",
+  "schoolName": "University of South Florida",
+  "department": "Mass Communications",
+  "overallQualityRating": "3.6",
+  "numberOfRatings": "11 ratings",
+  "wouldTakeAgainPercentage": null,
+  "levelOfDifficulty": "2.4",
+  "type": "professor",
+  "schoolId": "1262",
+  "description": "Professor in the Mass Communications department at University of South Florida",
+  "tags": null,
+  "ratingDistribution": [
+    {
+      "rating": "5",
+      "label": "Awesome",
+      "count": "4"
+    },
+    {
+      "rating": "4",
+      "label": "Great",
+      "count": "4"
+    },
+    {
+      "rating": "3",
+      "label": "Good",
+      "count": "1"
+    },
+    {
+      "rating": "2",
+      "label": "OK",
+      "count": "2"
+    },
+    {
+      "rating": "1",
+      "label": "Awful",
+      "count": "0"
+    }
+  ],
+  "similarProfessors": [
+    {
+      "professorId": "3052970",
+      "professorName": "Elyse Dipisa",
+      "professorUrl": "https://www.ratemyprofessors.com/professor/3052970",
+      "rating": "5.00"
+    },
+    {
+      "professorId": "1836758",
+      "professorName": "Lorie Briggs",
+      "professorUrl": "https://www.ratemyprofessors.com/professor/1836758",
+      "rating": "4.90"
+    },
+    {
+      "professorId": "1568080",
+      "professorName": "Wayne Garcia",
+      "professorUrl": "https://www.ratemyprofessors.com/professor/1568080",
+      "rating": "4.50"
+    }
+  ],
+  "reviews": [
+    {
+      "course": "MMC4200",
+      "date": "Jul 17th, 2014",
+      "qualityRating": "5.0",
+      "difficultyRating": "2.0",
+      "forCredit": null,
+      "attendance": null,
+      "wouldTakeAgain": null,
+      "grade": null,
+      "textbook": "Yes",
+      "comment": "Dr. Watson is a great professor. The section I took was cross-listed with the grad level course so we had different course material than the normal undergrad class. There were no tests. Only a paper and discussion. And she brought food every week! You need to read and be prepared but you'll get an easy A. This was the best class I've taken at USF.",
+      "tags": null,
+      "helpfulCount": "1",
+      "notHelpfulCount": "0"
+    },
+    {
+      "course": "MMC4200",
+      "date": "May 18th, 2013",
+      "qualityRating": "4.5",
+      "difficultyRating": "2.0",
+      "forCredit": null,
+      "attendance": null,
+      "wouldTakeAgain": null,
+      "grade": null,
+      "textbook": "Yes",
+      "comment": "Dr. Watson is an amazing professor. There is a lot of information to memorize, the tests can be challenging. But she really helps if you ask.",
+      "tags": null,
+      "helpfulCount": "2",
+      "notHelpfulCount": "0"
+    },
+    {
+      "course": "MMC4200",
+      "date": "Jun 23rd, 2012",
+      "qualityRating": "3.5",
+      "difficultyRating": "4.0",
+      "forCredit": null,
+      "attendance": null,
+      "wouldTakeAgain": null,
+      "grade": null,
+      "textbook": "Yes",
+      "comment": "Took this class this summer! Very nice class, but although it is a lot of information.  If you don't like the material, it may be too dry for you.  She is helpful if you ask her.  Moves very fast so take notes!  Mock trial (only for summer semester so Fall and Spring don't have to do it) with extra credit as well as regular exams.",
+      "tags": null,
+      "helpfulCount": "0",
+      "notHelpfulCount": "1"
+    },
+    {
+      "course": "MMC4200",
+      "date": "Aug 24th, 2011",
+      "qualityRating": "2.0",
+      "difficultyRating": "4.0",
+      "forCredit": null,
+      "attendance": null,
+      "wouldTakeAgain": null,
+      "grade": null,
+      "textbook": "Yes",
+      "comment": "I was required to take this class for my major, class was at 8am with mandatory attendance. This prof is not very clear and moves quickly. It doesn't help that I could barely understand her accent. If you enjoy memorizing endless lists of court cases and laws, then you may enjoy the class.",
+      "tags": null,
+      "helpfulCount": "0",
+      "notHelpfulCount": "0"
+    },
+    {
+      "course": "MMC4200",
+      "date": "May 13th, 2011",
+      "qualityRating": "4.5",
+      "difficultyRating": "2.0",
+      "forCredit": null,
+      "attendance": null,
+      "wouldTakeAgain": null,
+      "grade": null,
+      "textbook": "Yes",
+      "comment": "Watson was an amazing teacher. Attendance is technically mandatory, but she passes around a sign in sheet. I showed up maybe 4 times a month, and the other times I just had someone sign my name. The exams aren't too bad, and honestly the lectures & slideshows aren't helpful. All the answers are in the textbook. She wants her students to succeed :)",
+      "tags": null,
+      "helpfulCount": "1",
+      "notHelpfulCount": "0"
+    }
+  ],
+  "professorUrl": "https://www.ratemyprofessors.com/professor/1010532",
+  "schoolUrl": "https://www.ratemyprofessors.com/school/1262",
+  "scrapedTimestamp": "2026-06-07T22:48:07.646Z"
+},
+{
+  "professorName": "Audrey R. Grounds",
+  "professorId": "1572409",
+  "schoolName": "University of South Florida",
+  "department": "Humanities",
+  "overallQualityRating": "3.4000000000000004",
+  "numberOfRatings": "40 ratings",
+  "wouldTakeAgainPercentage": "40%",
+  "levelOfDifficulty": "3.4",
+  "type": "professor",
+  "schoolId": "1262",
+  "description": "Professor in the Humanities department at University of South Florida",
+  "tags": null,
+  "ratingDistribution": [
+    {
+      "rating": "5",
+      "label": "Awesome",
+      "count": "12"
+    },
+    {
+      "rating": "4",
+      "label": "Great",
+      "count": "7"
+    },
+    {
+      "rating": "3",
+      "label": "Good",
+      "count": "14"
+    },
+    {
+      "rating": "2",
+      "label": "OK",
+      "count": "4"
+    },
+    {
+      "rating": "1",
+      "label": "Awful",
+      "count": "3"
+    }
+  ],
+  "similarProfessors": [
+    {
+      "professorId": "3113000",
+      "professorName": "Danielle Booth",
+      "professorUrl": "https://www.ratemyprofessors.com/professor/3113000",
+      "rating": "5.00"
+    },
+    {
+      "professorId": "3113773",
+      "professorName": "Kennedy Kelley",
+      "professorUrl": "https://www.ratemyprofessors.com/professor/3113773",
+      "rating": "5.00"
+    },
+    {
+      "professorId": "3052988",
+      "professorName": "Mary Love",
+      "professorUrl": "https://www.ratemyprofessors.com/professor/3052988",
+      "rating": "5.00"
+    }
+  ],
+  "reviews": [
+    {
+      "course": "HUM1020",
+      "date": "Aug 14th, 2017",
+      "qualityRating": "1.0",
+      "difficultyRating": "4.0",
+      "forCredit": "Yes",
+      "attendance": "Mandatory",
+      "wouldTakeAgain": "No",
+      "grade": null,
+      "textbook": "No",
+      "comment": "One of the worst professors I have ever taken. This professor is very cynical and sarcastic. For a 1000 level course, she made is very difficult to focus on other classes. Save yourself a headache and choose another professor.",
+      "tags": [
+        "Tough Grader",
+        "Skip class? You won't pass.",
+        "LECTURE HEAVY"
+      ],
+      "helpfulCount": "0",
+      "notHelpfulCount": "0"
+    },
+    {
+      "course": "HUM1020",
+      "date": "Aug 2nd, 2017",
+      "qualityRating": "4.0",
+      "difficultyRating": "2.0",
+      "forCredit": "Yes",
+      "attendance": "Mandatory",
+      "wouldTakeAgain": "Yes",
+      "grade": "A",
+      "textbook": "No",
+      "comment": "Professor Grounds is an AMAZING teacher, one of my favorites at USF. Long as you come to class, participate, and study the class is an easy A. She is truly passionate about humanities and makes it not so boring.",
+      "tags": [
+        "Gives good feedback",
+        "Skip class? You won't pass.",
+        "Amazing lectures"
+      ],
+      "helpfulCount": "1",
+      "notHelpfulCount": "0"
+    },
+    {
+      "course": "HUM1020",
+      "date": "Jul 27th, 2017",
+      "qualityRating": "3.0",
+      "difficultyRating": "4.0",
+      "forCredit": "Yes",
+      "attendance": "Mandatory",
+      "wouldTakeAgain": "No",
+      "grade": "C-",
+      "textbook": "No",
+      "comment": "Seems very nice at first until you realize that she has super high expectations for a 6 week course. She is a very tough grader so listen to what she says in class and take notes because there is no textbook.  There were a lot of papers for a 6 week course and the art project was ridiculous.",
+      "tags": [
+        "Tough Grader",
+        "Skip class? You won't pass.",
+        "LOTS OF HOMEWORK"
+      ],
+      "helpfulCount": "0",
+      "notHelpfulCount": "0"
+    },
+    {
+      "course": "AMS2270",
+      "date": "Jan 10th, 2017",
+      "qualityRating": "3.0",
+      "difficultyRating": "4.0",
+      "forCredit": "Yes",
+      "attendance": "Mandatory",
+      "wouldTakeAgain": "No",
+      "grade": "B",
+      "textbook": "No",
+      "comment": "She's actually a very good teacher and puts in effort to her lecture. Although, you have to attend class because she doesn't give notes and theres no book so her notes are the only thing you have. But if you make an effort and show up to class and take notes you can get a good grade. But she will make you work for it.",
+      "tags": [
+        "Tough Grader",
+        "Gives good feedback",
+        "Skip class? You won't pass."
+      ],
+      "helpfulCount": "0",
+      "notHelpfulCount": "0"
+    },
+    {
+      "course": "HUM1020",
+      "date": "Aug 10th, 2016",
+      "qualityRating": "5.0",
+      "difficultyRating": "3.0",
+      "forCredit": "Yes",
+      "attendance": "Mandatory",
+      "wouldTakeAgain": "Yes",
+      "grade": "A+",
+      "textbook": "No",
+      "comment": "Very nice professor! You will be assigned lots of homework but as long as you take your time you will breeze right through the course. Attend class and take lots of notes!",
+      "tags": [
+        "Tough Grader",
+        "Skip class? You won't pass.",
+        "LOTS OF HOMEWORK"
+      ],
+      "helpfulCount": "0",
+      "notHelpfulCount": "0"
+    }
+  ],
+  "professorUrl": "https://www.ratemyprofessors.com/professor/1572409",
+  "schoolUrl": "https://www.ratemyprofessors.com/school/1262",
+  "scrapedTimestamp": "2026-06-07T22:48:07.684Z"
+}]

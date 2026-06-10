@@ -1,0 +1,41 @@
+Title: USF CSE Student Study Guides Repository (README)
+URL: https://github.com/aeckar/usf-cse-resources
+Source: github
+---
+
+Status: Project is discontinued. However, additions are still welcome.
+
+A repository of exam review sheets and other resources compiled by students at the University of South Florida in the Computer Science and Computer Engineering programs.
+
+With development initially starting in Summer of 2024, this repository aims to increase the passing rate of the courses within these programs through the creation of comprehensive and easily digestible study guides, flashcards, and practice questions.
+
+These materials are not intended to replace independent study, but to complement it by ensuring that all information is covered and understood.
+
+The following materials are incomplete. Any contributions towards their completion would be greatly appreciated.
+- COT 3100 Exam 2 review
+- COT 3100 Exam 3 review
+
+Courses with study materials in this repository:
+- CDA 3103 Computer Organization & Architecture
+- COP 3514 Program Design
+- COP 4530 Data Structures
+- COT 3100 Intro to Discrete Structures
+- EGN 3443 Probability & Statistics for Engineers
+- EGN 4450 Intro to Linear Systems
+
+Contribution Guidelines:
+- Full lecture presentations are prohibited
+- Student assignments that could be passed off as one's own are prohibited
+
+Contributors:
+- Angel Eckardt — Repository maintainer and primary author/editor
+- Tony Baker — Author of EGN 3443 reviews 1 and 2
+- Curly Wurly — Creator of Figure 13 in CDA 3103 review 3
+- Cicada — Fixed typo in COP 3514 project 4, task 1; images and information for CDA 3103 review 2
+- Clay5701 — Images and information for CDA 3103 review
+- j1bb1e — Fix typos, information for COP 3514 projects
+- Jooroth18 — Flashcards for CDA 3103 reviews 1 and 2
+- Maren0000 — Information on RISC-V for CDA 3103 review 2
+- riryiskool — Information and tables for CDA 3103 and COT 3100 reviews 1, section 2
+- Silverfox — COT 3100 reviews for probability & counting
+- thewalkingbiped — COT 3100 review for logical forms & equivalences

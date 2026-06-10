@@ -1,0 +1,119 @@
+Title: COP 3514 Program Design - Exam 1 Review (USF CSE Resources)
+URL: https://github.com/aeckar/usf-cse-resources/tree/main/COP%203514%20Program%20Design
+Source: github
+---
+
+COP 3514 Program Design - Exam 1 Review
+textbook | c compiler
+
+Accessing the Student Cluster
+Windows Setup
+Set up password-less 2FA with an authentication app
+For Microsoft Authenticator, this involves setting up "Phone Sign-In"
+Sign in here with your NetID and password
+While the webpage is loading, confirm the sign-in with your authentication app
+Download GlobalProtect from the same site once you have signed in
+Once downloaded, open the program and sign in with your NetID and password
+While it's loading, confirm the sign-in with your authentication app
+Connect to USF's VPN portal by typing sc.rc.usf.edu into the GlobalProtect VPN sidebar
+Download PuTTY
+Open PuTTY from the start icon
+Type sc.rc.usf.edu into the field Host Name (or IP address) and 22 into Port
+In the terminal popup, type your NetID and password
+
+Sending Files to/from the Cluster on Windows
+Sign-in to the Cluster using the above directions
+Open a Windows command prompt (cmd.exe) with PuTTY installed
+Type pscp -r <from directory> <netid>@sclogin1:<to directory>
+
+Using the Cluster
+The Student Cluster is a remote group of computers running a Unix-based operating systems
+Enables access to a Unix-based OS at all times
+Enables execution of pre-compiled scripts shared by the professor
+Students should be familiar with using the Linux command-line
+
+Common commands:
+pwd                  # print current directory
+cd <to directory>    # Change directory
+ls                   # Show files and folders in current directory
+nano                 # Barebones text editor
+vimtutor             # Learn to use the vim IDE
+gcc                  # GNU Compiler Collection (C Compiler)
+g++                  # GNU C++ Compiler
+./<program>          # Run a program
+chmod <perms> <file> # Change file permissions
+rm                   # Delete a file
+clear                # Clear the screen
+mv <file>            # Rename or move a file
+
+1. Introduction to C
+C is a procedural, high-level programming language
+Created 1972 by Dennis Ritchie to replace B
+Compiles directly to assembly, thereafter compiled to binary
+gcc and clang are popular compilers
+We are concerned with only the C99 standard
+Undefined behavior is behavior not specified by the standard
+All statements must be followed by a semicolon (;)
+No top-level statements, like in JavaScript and Python
+
+Example: gcc -Wall -std=c99 main.c   # outputs executable a.out
+
+2. Declaring & Initializing Variables
+Variable declarations follow the form <type> <name> <initial value>?
+Follow snake_case by convention
+C is strongly-typed: every variable must be assigned a type that does not change
+If an initial value is not specified, the value is unknown (garbage value)
+Initialize all variables or be extra careful
+Variables can be made const so their values do not change
+
+3. Types & Casting
+Common types: char, short, int, long, long long, float, double, long double
+char values map to their ASCII code
+ints are useful as boolean flags: 0 is false, any other number is true
+Strings are represented by char * or char[]
+Typecasting uses the (<type>) operator
+
+4. Logical & Arithmetic Operators
+Operators have precedence and associativity (see study guide tables)
+++ and -- increment and decrement variables
+If postfix, expression evaluates to old value before change
+
+5. Preprocessor Directives
+#include inserts files; <> for standard headers, "" for project files
+#define declares macros substituted before compilation
+Follow SCREAMING_SNAKE_CASE for macro constants
+
+6. Functions & Nested Scopes
+Functions follow snake_case by convention
+Prototype: <return type> <name> ( <parameters>? );
+Definition provides the procedure body
+All C programs begin execution at main function
+Returns 0 on success, non-zero on failure
+Local variables in compound statements cannot be accessed outside brackets
+Global variables discouraged; use macros for constants instead
+
+7. Conditional Statements
+if ( <condition> ) <statement>
+else and else-if chains
+switch compares integer types only; use break to prevent fall-through
+default label runs when no case matches
+
+8. Loops
+while, do-while, and for loops
+break exits loop prematurely
+
+9. Representation of Variables in Memory
+The stack is LIFO; each frame holds local variables and return info
+Pointers: * designates pointer type, & address-of, * dereference
+Arrays are contiguous blocks; first element at index 0
+Array variables are pointers to first element
+Strings must end with null terminator '\0'
+String literals are read-only; modifying causes segmentation fault
+Array subscripting [] is shorthand for pointer arithmetic
+
+10. Console I/O
+Escape sequences: \n newline, \t tab, \\ backslash, etc.
+stdio.h: printf, scanf, puts, getchar
+Format specifiers: %d int, %s string, %c char, %f double, etc.
+scanf requires address-of (&) for storing input
+Order of format specifiers must match argument order

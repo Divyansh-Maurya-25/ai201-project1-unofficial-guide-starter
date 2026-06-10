@@ -1,0 +1,59 @@
+Title: Program Design COP 3514
+URL: https://www.reddit.com/r/USF/comments/13ewl3y/program_design_cop_3514/
+Source: reddit
+---
+
+POST (CivilEngBoul):
+Can anybody who has taken COP 3514 share what it is like. I'm trying to get an edge this summer by studying C before the fall semester, but can anybody share what I should deeply learn to be able to get an A. What is the overall point I should get by the end of this course. Would be even more appreciated if you took Jing Wang and shared her syllabus. Thanks!
+
+P.S. I wouldn't mind any information on CDA 3103 (Computer Organization) as well.
+
+COMMENT (Wolverine002):
+For COP, highly recommend Harvard CS50 on EdX.
+
+For CDA, I basically had to watch youtube + book.
+
+COMMENT (Wolverine002, reply to OP):
+Uh it really depends on your skillset. I personally had so much struggle in CDA but pass COP without much prep.
+
+But I have also seen other students who are complete opposite side.
+
+Try studying for both and then after some time, evaluate which ones you dont find intuitive/easy
+
+COMMENT (vjosa_e_larget):
+So I'm a CSE junior and rising senior next year. For Program Design, if you've ever coded in C and C++ and learned syntax up to vectors/arrays you should be okay. It didn't appear to be that hard of a class to me. But do keep in mind you want a B in that class, as a C might not be satisfactory. As for Computer Organization, that's a class you want to study significantly for. Especially when it comes to verilog, RISC-V, VLSI or whatever programming language they use in that. In the beginning its mostly binary number conversions but it gets harder as a class the more you progress. Really "no-life" that class if you know what I mean as you want to pass it with a B.
+
+Oh and btw, if you're taking that class with Yan Zhang, then get used to her as you might also have her for following Computer Design classes and she's kinda hell maybe. Worst professor I've ever had and that's saying a lot because I've dealt with many kinds before.
+
+COMMENT (vjosa_e_larget, reply about CDA resources):
+I recommend that you learn binary number conversions such as decimal to binary, 2-bit sign magnitude conversion, decimal to hexadecimal to binary, and binary operations such as adding 8-bit binary numbers and subtracting them. I believe they are what most of the first test could be made of. You can search them up on youtube by searching "Binary Number Conversions". Also, I can't guarantee this one, but when I took the class i think they used a language called RISC-V (risk-five) during the end and I remember that possibly being difficult so you can search on youtube "RISC-V programming tutorial" and look at available tutorials to start learning the syntax. Also, there's a discord for CSE that has subsections for a lot of classes i believe and you could also search that up.
+
+Course Major Topics (from vjosa_e_larget):
+- Numbering systems including 1s and 2s complement addition
+- The basics of digital logic design and Boolean algebra.
+- Introduction to processors
+- Machine language programming, assemblers
+- Instruction set
+- Pipelining
+- Memory hierarchies
+- Cache memory
+- Virtual memory
+
+COMMENT (vjosa_e_larget):
+Oh and one more thing, you can search online for "USF Computer Organization Syllabus" and if you could find it it should have information related to the course and what you could expect before the class.
+
+COMMENT (findingTheWay97):
+Read the book for the program design and you will be golden. Reading the book and doing practice problems from the book is the secret to success in any class or subject.
+
+Big area for cop: Pointers and memory management. You will be introduced to arrays, strings (character arrays), and linked lists. LEARN LINKED LISTS VERY WELL. The idea of linked lists, or connecting nodes is used everywhere in CS.
+
+Big area for cda: cda is a large subject. The material is not too difficult, but you need to learn a lot of information in this course. It is really important you have a very strong understanding in this class because going forward it all builds on this stuff. I think RISCV gives students the most trouble, but just think of it as another programming language (that is what it is, a language for assembly) that is very low level. With RISCV you are responsible for EVERYTHING.
+
+Overall they are not very TOUGH courses but there is a very large amount of information you need to consume.
+
+Good luck friend, welcome to the CS fam and go bulls
+
+COMMENT (Milkywayyok):
+Pointers and Linked Lists are a must. After that, just make sure you have enough time to do the projects and you will do fine. There are a lot of projects and you're given a week for each so get them done early.
+
+As for comp org I must have lucked out with it since I had to use RISC-V and it was during covid, but it wasn't that challenging for me. All I know is to study the programming near the end for Yan Zhang. There were a couple difficult questions that were large.

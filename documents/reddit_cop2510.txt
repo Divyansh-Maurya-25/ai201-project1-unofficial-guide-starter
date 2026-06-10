@@ -1,0 +1,28 @@
+Title: COP 2510 Difficulty
+URL: https://www.reddit.com/r/USF/comments/yn7dtp/cop_2510_difficulty/
+Source: reddit
+---
+
+POST:
+I am taking this class next spring with Dr Small. I have very little and basic programming experience from just some youtube videos. AFAIK this class is taught in python which is not so difficult. Is getting a minimum of B in this class difficult since you need a B to continue your CS degree
+
+COMMENT (Chrislox):
+I'm taking her class right now and you are not required to have any coding experience prior to taking this class to do well. Dr Small is very friendly and teaches extremely well. She isn't one of those types of teachers who stands in the front repeating info from a PowerPoint. She will write and explain her code line by line and is always open to any questions, to the point where she will try out any ideas you may have on a program she is working on.
+
+Her programming exams are open book. You can use whichever IDE you prefer (I recommend using Python's default text editor if you're a beginner) and you are allowed to look through your ZyBook (online book you will need to buy and can be used to read and answer questions about Python).
+
+Her midterms are not open book. You will be given a paper packet with questions and will need to write out the code by hand.
+
+If you put in the effort to learn then you will have no problem passing her class.
+
+COMMENT (AASOxRevo):
+When this class was java, I always went to office hours and she was willing to help you with the assigned homework. Highly recommend Dr. Small as a professor.
+
+COMMENT (jwb_4):
+If you put in decent effort you should get the B no problem. She's a great teacher and grades mercifully on midterm exams, also programming exams are open book/note so they aren't that hard.
+
+COMMENT (cr0wndhunter):
+Small is an amazing professor. You should be fine as long as you keep up in the class.
+
+COMMENT (Familiar_Ghost):
+I had Small when the class was Java. She was amazing. I got a B in the class and had no programming experience beforehand

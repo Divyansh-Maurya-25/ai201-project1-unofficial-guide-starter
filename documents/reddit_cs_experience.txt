@@ -1,0 +1,52 @@
+Title: Anyone here in USF computer science department - program quality and languages?
+URL: https://www.reddit.com/r/USF/comments/s4ht3j/anyone_here_in_usf_computer_science_department/
+Source: reddit
+---
+
+POST (OlympicAnalEater):
+Anyone here in USF computer science department can tell me about the program and quality of it now? What code language USF teaches?
+
+I read some old reddit users post years ago that is it not great or worth it, and you need to know everything before hand.
+
+COMMENT (kixer9):
+Spring 2021 grad who's now working in software.
+
+Program is up and down, there are some great professors and some are kinda crap. The programming classes themselves aren't the hard part imo, only program design gave me problems but even that was doable with enough work.
+
+The hardest classes are the pre-reqs and the minimum GPA to get into the dept. Idk what it's at now but it's what makes most transfer out.
+
+COMMENT (kixer9, reply on transfers):
+Of the program. Most go to either IT/CS or college of business because of the lower entry requirements.
+
+COMMENT (MoistView):
+I finished their program. It sucked. You end up learning nothing that the actual tech world needs you to learn. If you are a newbie in coding and don't have any prior experience , you will struggle hard. Generally, from professors to engineer students, they are pretty arrogant. I luckily finished my degree but it's been a struggle to find a job. You can learn everything they teach for free.
+
+COMMENT (MoistView, on international student experience):
+My background is probably different From yours as I was an international student. For that reason, 1 I couldn't do internships (making it hard to build experience) as it's an immigration law in the US. As you progress in your degree you will need to take classes that are only available one semester or maybe less as there is not enough teacher to teach it, or it would conflict with your schedule as some of your classes will be at the same time. So I wasted lots of time and money as also another rule of being a international student , you need to be full time. So you could imagine I ran out of classes pretty quickly and had to take BS classes (and pay for them obviously) To maintain my full time student schedule, which also means I couldn't drop any credits if I were to to fail to protect my GPA. Another issue was a previous dean kept denying me to get into the department because he failed at calculating my gpa (3.0 gpa needed I believe at the time to get into the department of CS). So I had to repeat one of the classes to improve that average. Long story shorts , repeating credits are more expensive too, on average I pay 7-8k a semester for 12 credits. Mind you, I'm not allowed to work nor to do volunteering either as an international student.
+
+After graduating, no one wanted to hire me as I had no experience. A friend helped me and hired me for the low low to be able to stay and comply with my student visa ( you are allowed to work after graduation for up to 3 years without any working visa, but cannot be unemployed for more than 80 days total. There is no reset). In 2020 got hired as an IT making less than a Macdonald worker. They knew that I needed the job to stay in the usa. Finally 3 years later, my personal life changed allowed me to have a green card. I'm still on the market to be a software engineer. Currently going thru multiple interviews. I had to quit my last job as my working permit expired . So yes as a legal immigrant , I have definitively had more obstacles than a regular US Citizen student. But fresh of Usf, that 80k salary they say you will get, I really doubt it, unless you are able to build experience while being in school.
+
+COMMENT (MoistView, on learning approach):
+To be honest I skipped the classes at the end as most teachers get lazy and just read off a PowerPoint. Projects are graded but you are never told a solution or what you did wrong. Most projects you code are individual , graded by a TA that is usually not getting you any feedback. So honestly, you are better off learning the basic of programming alone first, YouTube has a lot of ressources, as well as Udemy. Once you are good with the basics, learn more into algorithms, and data structures. Once you are comfortable, you can practice leetcode interview questions to get better . I honestly don't think recommend usf for computer science
+
+COMMENT (SlicedSides):
+It's not a very big program at USF, and there are a pretty decent amount of classes that are only taught by a single professor and they can be pretty hit or miss. My second comp sci course was taught by one professor, and they were fucking horrible. It was programming theory and the only grades were three exams. The exams had no partial credit and were written and timed, and it was a 10 question test with like 5-8 parts to each question. The average score on each test was failing. I wouldn't take the program here because if you get a shitty professor you don't have other options, and get fucked by them. Our Cybersecurity program is decent though from what I've heard.
+
+COMMENT (MoistView, on campus):
+Tampa campus, I don't think any other campuses have CS classes taught
+
+COMMENT (3ef3640b):
+I graduated from BSIT a few years ago. The intro class I took was in Java, though it's sounding like it might be in Python now, and then after that, there was a C class and then a C++ class, as mentioned. Some of the electives I took covered Python and C# as well, so you might see a few other languages depending on what classes you take. Some classes are better than others, and some are just a slog to get through, but it's all doable if you put in the time and study. I started in computer engineering, but the minimum GPA in calc and physics and all that was a bit too much for me, so I switched to IT, and it's true that you don't have to do nearly as much math there. All I'll say is as long as you do some work outside of your classes, like doing your own projects and extending what you've learned and worked on beyond what the classes covered, you should be fine.
+
+COMMENT (3ef3640b, on jobs and IT vs CS):
+I did find a job that I started before my last semester. As far as the degree being worth it or not, again, some classes are more useful than others, but you'll learn the things you want to learn. If you find that a class is interesting, and you apply what you've learned to a project that's useful to you, you'll end up learning a lot more than what you would if you just took the class and moved on. For example, I took two classes that used C#, and I'm still using it to this day for different little projects at home, and I'm learning a lot more than what I learned in the class because I'm figuring little things out to make my projects work. The classes serve as starting points, and you'll figure out what's useful to you from there.
+
+In terms of job positions, it also depends on what you're interested in, and where you want to go. I'm currently in software development, and some of those side projects I worked on during undergrad were related to development, which helped me out a lot. If you're ready to put in the time and learn more beyond the classes, you'll probably be fine working most development jobs, but my experience is fairly limited there. You might also be able to work the helpdesk, but again, you'll have to spend some time learning about the specifics for that role, like diagnosing common issues and working with ticketing systems. I'm not very familiar with the requirements for being a security analyst, but I will say that there is good advice in this thread. Most job descriptions will have a few types of degrees listed, and they're mainly looking for something in a similar field, so someone with an IT degree could apply to a job asking for a CS degree, provided they have the background knowledge to fit the role, and I would imagine the same applies to security-related positions. Your best bet will be contacting the undergrad CSE advisors, though. They should be able to help you figure out which degree is the right one for you.
+
+COMMENT (deleted user, on languages and difficulty):
+Ehhhh, I just hate that technology degrees are so tied into the school of engineering. It should be separate!
+
+We are learning Java and python so far. They really start from zero and explain how to install programs and use windows… my community college tech courses were 100 X harder lol. But still a lot of people drop, the classes for the school of engineering seems to give a lot of busy work so I think that's why people fail out.
+
+COMMENT (NitroxDiver88):
+Just graduated from the BSIT program, along with the others mentioned, Java is also involved in a couple classes. If you're not confident with the higher level maths, you can also check out the IT program. Only required precalculus/trig, discrete math, and statistics, rather than multiple calc and physics classes

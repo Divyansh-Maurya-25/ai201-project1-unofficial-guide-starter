@@ -1,0 +1,51 @@
+Title: Need your opinion - USF CS Program Experience
+URL: https://www.reddit.com/r/USF/comments/1rroyo1/need_your_opinion/
+Source: reddit
+---
+
+POST:
+Hi, I was admitted to USF on feb-12 as international freshman. If I attend I am gonna major in CS, I would just love to hear the overall experience of CS program by you guys :). Thank you in advance!!
+
+COMMENT (Status-Suggestion620):
+USF is not a good school for computer science. It's ranked #422 globally for computer science, according to US News.
+
+COMMENT (jibblypuff):
+i'm graduating in the fall after 3.5 years bc i came in w some ap credits from hs. i have an internship this summer, and am hoping to get a return offer for when i graduate. yeah some profs are shit, some classes r shit, but it is totally doable and will be rewarding at the end. from what i've understand, cs at usf is actually a lot easier than cs at other schools in terms of not failing your class. in my experience profs curve hella and ive never had to study very hard and have gotten all A's and B's in my classes nothing lower. it's not the easiest major it's not the most fun but at the end of the day it is rewarding
+
+COMMENT (sept27):
+Horrible. The CS department is a travesty and the quality of the education is extremely subpar. If you have any other options, go elsewhere. Seriously.
+
+I'm graduating from USF with a degree in Computer Engineering, and if I knew what I know now, I would have gone somewhere else. The majority of CS professors are poor instructors. Our student cluster computing hub, which is required for a number of classes, can't support the traffic of all of the students using it.
+
+I've spoken with the dean about a number of issues here, and I know many other students who have done the same.
+
+If you want to be competent and really learn the material, don't go to USF. They slapped "AI" on the new college and they're hyping up this new CS AI degree. It's literally just the regular CS degree (which is lacking in some seriously important topics, like a networking course or an embedded systems course) with a couple electives that CS students can already take. It's all hype and buzzwords.
+
+But why, you might wonder. Isn't the job of a school to educate? No, it's not. USF makes money on grants for research and the quality of research. Our rankings are good because of that research, not the quality of the education. I wish I could go back and make a different choice.
+
+COMMENT (MindlessEnthusiasm91):
+Not the best ngl
+
+COMMENT (silver_fox_7):
+Hello, am currently a junior in CS, minor in math, I'll give some thoughts.
+
+Coursework: it is quite light compared to other schools, which has both upsides and downsides. Downside is if you're looking for rigorous courses, you'll be dissatisfied. Upside is, you'll have more time outside of class to do stuff you actually enjoy, or will prop up your career i.e. personal projects, clubs, socialization and networking, etc… CS is heavily self learning; as the field move so fast they cannot teach you everything, and you only have four years anyway.
+
+Professors: some of them are shite, some of them are great and genuinely interested in your success. I'd say middle of the road, 5/10.
+
+Advisors: used to be pretty shite but i think they've improved since and add more advisor to the department.
+
+Opportunity: honestly this is one of the most conflicting part. I'd say that, while the department does try to give some opportunities from time to time to CS students, it is wholly not enough for this amount of student, and this job market. But on the other hand, the job market for CS itself is quite shite already. Students from Ivy League schools are struggling at finding jobs. So I'd say take both side of the convo; if you're in this major just for the job prospect, I'd say get the hell out.
+
+All in all, a lot of your experience will be self propelled. The dept have resources, but industry resources are limited.
+
+From my personal experience, it'd been great for me. I got three internships and I've worked in 2 labs during my time here. So I enjoyed it here and as such I might be biased. Take what I say with a slightly moderate grain of salt : D
+
+COMMENT (jibblypuff, reply on internships):
+i don't think you know too many people then. i know tons of people in this major who don't even have a linkedin set up as a junior/senior. i've been to career fairs where i've seen resumes that are half a page long. the average cs student should be able to get an internship. it takes a lot of applications, but this is apart of it. i think it's something where you only get what you make of it. you can't get a job, get an internship, etc if you aren't trying. not "trying", but trying
+
+COMMENT (ultrastition, reply):
+You are just trying to make yourself feel better, but you cannot defy reality.
+
+COMMENT (jibblypuff, reply):
+weird because i'm defying said "reality"
